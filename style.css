@@ -1,0 +1,47 @@
+img {
+    width: 350px;
+    height: 350px;
+    margin-bottom: 20px;
+}
+.container{
+    width: 950px;
+    height: 650px;
+    background-color: black;
+    margin: 0px auto;
+    margin-top: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.top-nav {
+    height: 125px;
+    background-color: maroon;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-style: oblique;
+    text-align: center;
+}
+h1 {
+    font-size: 40pt;
+}
+a {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
+table {
+    color: azure;
+}
+.right-nav {
+    background-color: maroon;
+    display: flex;
+    justify-content: space-between;
+}
+.visual {
+    display: flex;
+    justify-content: space-evenly;
+}
+.gif {
+    height: 300px;
+    width: 450px;
+}
